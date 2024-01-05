@@ -697,3 +697,5 @@
 </tr><tr><td style="width: 17.3589%;vertical-align: middle" width="107">Winexe</td>
 <td style="width: 82.0021%;vertical-align: middle" width="412">Remotely execute commands on Windows systems from a Linux or Unix host</td>
 </tr></tbody></table></div>
+
+thanx to linuxsimply.com 
