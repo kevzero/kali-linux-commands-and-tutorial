@@ -5,3 +5,4 @@
 In this repository there are pdf's and tutorials on using kali linux. The sources are freely taken from the internet and I have put them in this repository to help users who need them.
 The creators of such documents will be mentioned under their works.
 Thanx to the creators of these documents and interested users.
+Obviously this information must be used ethically and for good purposes.
