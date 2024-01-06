@@ -127,8 +127,7 @@
 </tr><tr><td style="width: 17.3589%;vertical-align: middle" width="138">Xplico</td>
 <td style="width: 82.0021%;vertical-align: middle" width="447">Extract application data from network traffic</td>
 </tr></tbody></table></div>
-<h3><span id="Kali_Linux_Commands_for_Vulnerability_Analysis">Kali Linux Commands for Vulnerability Analysis</span></h3>
-<p style="text-align: justify;">Vulnerability analysis tools and commands in <strong>Kali</strong> Linux help identify the <strong>vulnerability </strong>in systems and networks, <strong>test the strength</strong> of passwords, and <strong>simulate attacks </strong>to determine potential weaknesses. Here is a list of popular tools and commands that are frequently used for vulnerability analysis.</p>
+<h3>Kali Linux Commands for Vulnerability Analysis</span></h3>
 <p><span style="font-weight: 400;"><div class="su-table su-table-responsive su-table-alternate su-table-fixed">
 <table style="height: 691px;width: 100%"><tbody><tr><th style="width: 17.3589%;text-align: left"><strong>Command</strong></th>
 <th style="width: 82.0021%;text-align: left"><strong>Description</strong></th>
@@ -183,8 +182,7 @@
 </tr><tr style="height: 26px"><td style="width: 17.3589%;height: 26px;vertical-align: middle" width="164">Yersinia</td>
 <td style="width: 82.0021%;height: 26px;vertical-align: middle" width="419">Network protocol analyzer and attack tool for testing network security</td>
 </tr></tbody></table></div>
-<h3><span id="Kali_Linux_Commands_for_Wireless_Attacks">Kali Linux Commands for Wireless Attacks</span></h3>
-<p style="text-align: justify;">Different techniques such as <strong>sniffing</strong>, <strong>spoofing, </strong>and <strong>cracking of wireless encryption </strong>protocols can be used for wireless attacks. There are a lot of commands and tools in Kali Linux for applying these techniques. The following list contains the most useful ones.</p>
+<h3>Kali Linux Commands for Wireless Attacks</span></h3>
 <p><span style="font-weight: 400;"><div class="su-table su-table-responsive su-table-alternate su-table-fixed">
 <table style="width: 100%;height: 1461px"><tbody><tr><th style="width: 17.3589%;text-align: left"><strong>Command</strong></th>
 <th style="width: 82.0021%;text-align: left"><strong>Description</strong></th>
@@ -297,8 +295,7 @@
 </tr><tr style="height: 26px"><td style="width: 17.3589%;height: 26px;vertical-align: middle" width="144">wpaclean</td>
 <td style="width: 82.0021%;height: 26px;vertical-align: middle" width="407">Filter and clean WPA/WPA2 handshake capture file</td>
 </tr></tbody></table></div>
-<h3><span id="Kali_Linux_Forensics_Tools">Kali Linux Forensics Tools</span></h3>
-<p style="text-align: justify;">There are a lot of specially designed tools and commands for digital forensics investigations pre-installed in Kali Linux. These allow forensic analysts to <strong>acquire</strong>, <strong>analyze</strong>, and <strong>preserve </strong>digital forensic evidence quite efficiently. Here is a brief list of these types of tools and commands.</p>
+<h3>Kali Linux Forensics Tools</h3>
 <p><span style="font-weight: 400;"><div class="su-table su-table-responsive su-table-alternate su-table-fixed">
 <table style="width: 100%;height: 608px"><tbody><tr><th style="width: 17.3589%;text-align: left"><strong>Command</strong></th>
 <th style="width: 82.0021%;text-align: left"><strong>Description</strong></th>
@@ -347,8 +344,7 @@
 </tr><tr style="height: 26px"><td style="width: 17.3589%;height: 26px" width="130">Volatility</td>
 <td style="width: 82.0021%;height: 26px" width="355">Analyze memory dumps</td>
 </tr></tbody></table></div>
-<h3><span id="Kali_Linux_Exploitation_Tools">Kali Linux Exploitation Tools</span></h3>
-<p style="text-align: justify;">You can employ the <strong>exploitation </strong>tools of Kali Linux to develop and execute a wide range of exploits, from simple command injection attacks to complex remote code execution exploits. The following list contains most used exploitation tools of Kali Linux.</p>
+<h3>Kali Linux Exploitation Tools</h3>
 <p><span style="font-weight: 400;"><div class="su-table su-table-responsive su-table-alternate su-table-fixed">
 <table style="width: 100%"><tbody><tr><th style="width: 17.3589%;text-align: left"><strong>Command</strong></th>
 <th style="width: 82.0021%;text-align: left"><strong>Description</strong></th>
@@ -373,8 +369,7 @@
 </tr><tr><td style="width: 17.3589%;vertical-align: middle" width="178">ShellNoob</td>
 <td style="width: 82.0021%;vertical-align: middle" width="390">Generate shellcode and convert shellcode to assembly</td>
 </tr></tbody></table></div>
-<h3><span id="Kali_Linux_Hardware_Hacking_Tools">Kali Linux Hardware Hacking Tools</span></h3>
-<p style="text-align: justify;">The hardware hacking tools and commands are useful to <strong>identify </strong>and <strong>exploit </strong>vulnerabilities in various hardware devices. The list below contains a few of those.</p>
+<h3>Kali Linux Hardware Hacking Tools</h3>
 <p><span style="font-weight: 400;"><div class="su-table su-table-responsive su-table-alternate su-table-fixed">
 <table style="width: 100%"><tbody><tr><th style="width: 17.3589%;text-align: left"><strong>Command</strong></th>
 <th style="width: 82.0021%;text-align: left"><strong>Description</strong></th>
@@ -389,8 +384,7 @@
 </tr><tr><td style="width: 17.3589%" width="134">smali</td>
 <td style="width: 82.0021%" width="404">An assembler/disassembler for Android’s dex format</td>
 </tr></tbody></table></div>
-<h3><span id="Reverse_Engineering_in_Kali_Linux">Reverse Engineering in Kali Linux</span></h3>
-<p style="text-align: justify;">In Kali Linux, there are several powerful tools and commands available for reverse engineering tasks. You can use these to <strong>disassemble</strong>, <strong>decompile</strong>, and <strong>analyze </strong>binaries. Here is a short list of a few of those.</p>
+<h3>Kali Linux reverse Engineering</h3>
 <p><span style="font-weight: 400;"><div class="su-table su-table-responsive su-table-alternate su-table-fixed">
 <table style="width: 100%"><tbody><tr><th style="width: 17.3589%;text-align: left"><strong>Command</strong></th>
 <th style="width: 82.0021%;text-align: left"><strong>Description</strong></th>
@@ -413,8 +407,7 @@
 </tr><tr><td style="width: 17.3589%;vertical-align: middle" width="127">YARA</td>
 <td style="width: 82.0021%;vertical-align: middle" width="372">Match patterns and identify malware and other suspicious files</td>
 </tr></tbody></table></div>
-<h3><span id="Web_Applications_in_Kali_Linux">Web Applications in Kali Linux</span></h3>
-<p style="text-align: justify;">There are various tasks including identifying <strong>web vulnerabilities</strong>, <strong>misconfiguration, </strong>and <strong>security issues </strong>in web applications. Kali Linux is well-equipped to handle all of these. You can frequently use the following commands and tools to handle different issues related to web applications.</p>
+<h3>Kali Linux Web Applications</h3>
 <p><span style="font-weight: 400;"><div class="su-table su-table-responsive su-table-alternate su-table-fixed">
 <table style="height: 956px;width: 100%"><tbody><tr><th style="width: 17.3589%;text-align: left"><strong>Command</strong></th>
 <th style="width: 82.0021%;text-align: left"><strong>Description</strong></th>
@@ -489,8 +482,7 @@
 </tr><tr style="height: 26px"><td style="width: 17.3589%;height: 26px;vertical-align: middle" width="131">XSSer</td>
 <td style="width: 82.0021%;height: 26px;vertical-align: middle" width="438">Find and exploit XSS vulnerabilities</td>
 </tr></tbody></table></div>
-<h3><span id="Stress_Testing_in_Kali_Linux">Stress Testing in Kali Linux</span></h3>
-<p style="text-align: justify;">Stress testing is crucial and depicts the resilience of a system against any cyber-attacks. A few commands and tools of <strong>Kali</strong> Linux related to <strong>stress testing </strong>are listed below.</p>
+<h3>Kali Linux stress Testing</span></h3>
 <p><span style="font-weight: 400;"><div class="su-table su-table-responsive su-table-alternate su-table-fixed">
 <table style="width: 100%"><tbody><tr><th style="width: 17.3589%;text-align: left"><strong>Command</strong></th>
 <th style="width: 82.0021%;text-align: left"><strong>Description</strong></th>
@@ -515,8 +507,7 @@
 </tr><tr><td style="width: 17.3589%;vertical-align: middle" width="136">THC-SSL-DOS</td>
 <td style="width: 82.0021%;vertical-align: middle" width="407">Flood SSL servers with SSL handshake requests, causing them to crash or become unavailable</td>
 </tr></tbody></table></div>
-<h3><span id="Sniffing_Spoofing_in_Kali_Linux">Sniffing &amp; Spoofing in Kali Linux</span></h3>
-<p style="text-align: justify;">Sniffing and spoofing are two common techniques to <strong>intercept </strong>and <strong>manipulate </strong>network traffic. Kali Linux offers a variety to commands and tools for sniffing and <strong>spoofing detection</strong>. Look over some of the commonly used sniffing and spoofing commands and tools listed below.</p>
+<h3>Kali Linux Sniffing & Spoofing</h3>
 <p><span style="font-weight: 400;"><div class="su-table su-table-responsive su-table-alternate su-table-fixed">
 <table style="width: 100%;height: 655px"><tbody><tr><th style="width: 17.3589%;text-align: left"><strong>Command</strong></th>
 <th style="width: 82.0021%;text-align: left"><strong>Description</strong></th>
@@ -567,8 +558,7 @@
 </tr><tr style="height: 26px"><td style="height: 26px;width: 17.3589%;vertical-align: middle" width="131">zaproxy</td>
 <td style="height: 26px;width: 82.0021%;vertical-align: middle" width="430">Test the security of web applications by scanning</td>
 </tr></tbody></table></div>
-<h3><span id="Kali_Linux_Reporting_Tools">Kali Linux Reporting Tools</span></h3>
-<p style="text-align: justify;">It is essential to generate an accurate report of penetration testing and provide it to clients and stakeholders for mutual understanding about the security risk of a system. <strong>Kali</strong> Linux has tools like <strong>Dradis</strong>, <strong>MagicTree</strong> etc. for managing, visualizing and reporting results of penetration testing.</p>
+<h3>Kali Linux Reporting Tools</h3>
 <p><span style="font-weight: 400;"><div class="su-table su-table-responsive su-table-alternate su-table-fixed">
 <table style="width: 100%"><tbody><tr><th style="width: 17.3589%;text-align: left"><strong>Command</strong></th>
 <th style="width: 82.0021%;text-align: left"><strong>Description</strong></th>
@@ -591,8 +581,7 @@
 </tr><tr><td style="width: 17.3589%;vertical-align: middle" width="227">RDPY</td>
 <td style="width: 82.0021%;vertical-align: middle" width="349">Perform remote desktop protocol operations, such as screen capture and input injection</td>
 </tr></tbody></table></div>
-<h3><span id="Password_Attacks_in_Kali_Linux">Password Attacks in Kali Linux</span></h3>
-<p style="text-align: justify;">Different types of password attacks are common for hackers to gain <strong>unauthorized access </strong>to systems or networks. Using tools and commands of <strong>Kali</strong> Linux, professionals can test security and vulnerabilities related to passwords.</p>
+<h3>Kali Linux Password Attacks</h3>
 <p><span style="font-weight: 400;"><div class="su-table su-table-responsive su-table-alternate su-table-fixed">
 <table style="width: 100%;height: 858px"><tbody><tr><th style="width: 17.3589%;text-align: left"><strong>Command</strong></th>
 <th style="width: 82.0021%;text-align: left"><strong>Description</strong></th>
@@ -659,8 +648,7 @@
 </tr><tr style="height: 26px"><td style="width: 17.3589%;height: 26px;vertical-align: middle" width="129">wordlists</td>
 <td style="width: 82.0021%;height: 26px;vertical-align: middle" width="449">Collection of various wordlists for password cracking</td>
 </tr></tbody></table></div>
-<h3><span id="Maintaining_Access_in_Kali_Linux">Maintaining Access in Kali Linux</span></h3>
-<p style="text-align: justify;">A list of useful Kali Linux tools and commands for <strong>bypassing security </strong>measures and <strong>maintaining access </strong>to a system is below.</p>
+<h3>Kali Linux maintaining Access</h3>
 <p><span style="font-weight: 400;"><div class="su-table su-table-responsive su-table-alternate su-table-fixed">
 <table style="width: 100%"><tbody><tr><th style="width: 17.3589%;text-align: left"><strong>Command</strong></th>
 <th style="width: 82.0021%;text-align: left"><strong>Description</strong></th>
