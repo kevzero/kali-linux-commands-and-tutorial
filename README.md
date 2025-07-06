@@ -16,5 +16,5 @@ This repository is continuously updated.
 - ### <a href="https://www.kali.org/docs/">📘 Kali linux docs</a></br>
 - ### <a href="https://www.kali.org/tools/">📙 Kali linux tools</a></br>
 - ### <a href="https://www.kali.org/get-kali/#kali-platforms">📕 Kali linux platforms downloads</a></br>
-- ### <a href="https://forums.kali.org/forum.php?s=6907f07a73c8346f987041f34709c601">📔 Kali linux forum</a></br>
+- ### <a href="https://forums.kali.org/">📔 Kali linux forum</a></br>
 
